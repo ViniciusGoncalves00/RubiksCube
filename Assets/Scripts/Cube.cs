@@ -2,5 +2,5 @@ using UnityEngine;
 
 public class Cube : MonoBehaviour
 {
-    public Vector3 originalPosition;
+    public Vector3 OriginalPosition;
 }
